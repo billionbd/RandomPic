@@ -1,1 +1,3 @@
 # RandomPix
+
+### Details
